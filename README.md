@@ -1,10 +1,7 @@
-# backup
 Shell PHP Code
-# WSO SHELL
-![](https://prnt.sc/lb16m6)
+# WSO SHELL : https://prnt.sc/lb16m6
 
 
-#password : root
 # https://github.com/wso-shell/WSO/archive/master.zip
 
 PHP WSO SHELL / File manager
